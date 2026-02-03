@@ -45,10 +45,17 @@ as a top-tier world model, LingBot-World offers the following features.
 ## ⚙️ Quick Start
 This codebase is built upon [Wan2.2](https://github.com/Wan-Video/Wan2.2). Please refer to their documentation for installation instructions.
 ### Installation
-Clone the repo:
+Clone this repo:
 ```sh
-git clone https://github.com/robbyant/lingbot-world.git
+git clone https://github.com/arananet/lingbot-world.git
 cd lingbot-world
+```
+Create the virtual environment:
+```sh
+python3 -m venv .venv
+
+For mac users: source .venv/bin/activate
+For windows users: .venv/bin/activate.bat
 ```
 Install dependencies:
 ```sh
