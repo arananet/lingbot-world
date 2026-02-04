@@ -44,6 +44,16 @@ as a top-tier world model, LingBot-World offers the following features.
 
 ## ⚙️ Quick Start
 This codebase is built upon [Wan2.2](https://github.com/Wan-Video/Wan2.2). Please refer to their documentation for installation instructions.
+
+### 🚀 Google Colab Notebook - New in This Fork!
+**Added by Eduardo Arana** - This fork includes a **Jupyter notebook** that allows you to run LingBot-World in a **Google Colab environment** with minimal setup! This educational adaptation is perfect for:
+- Generating product showcase videos without local GPU setup
+- Testing the model quickly with pre-configured product examples
+- Learning how to use LingBot-World with step-by-step guidance
+- Accessing powerful cloud GPUs (A100, T4) on-demand
+
+👉 **Check out the notebook in the [`notebook/`](notebook/) directory** for a streamlined, beginner-friendly experience with product video generation examples (chocolate bars, coffee, cereal, and more).
+
 ### Installation
 Clone this repo:
 ```sh
@@ -133,6 +143,15 @@ This project is licensed under the Apache 2.0 License. Please refer to the [LICE
 
 ## ✨ Acknowledgement
 We would like to express our gratitude to the Wan Team for open-sourcing their code and models. Their contributions have been instrumental to the development of this project.
+
+### 🍫 Fork Contributions
+This educational fork by **Eduardo Arana** adds:
+- Google Colab notebook integration for easy cloud-based usage
+- Product showcase video generation examples and templates
+- Step-by-step tutorials for beginners
+- Pre-configured workflows for marketing and advertising use cases
+
+**Original Project:** [Robbyant/LingBot-World](https://github.com/Robbyant/LingBot-World)
 
 ## 📖 Citation
 If you find this work useful for your research, please cite our paper:
